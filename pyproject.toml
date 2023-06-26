@@ -7,6 +7,11 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
+adaptix = "^3.0.0a4"
+orjson = "^3.9.1"
+ormsgpack = "^1.2.6"
+anyio = "^3.7.0"
+zmq = "^0.0.0"
 
 
 [build-system]
